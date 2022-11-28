@@ -80,6 +80,7 @@ uart0_putc(a);
 ### Before Simulation:
 ![](pmex09.2.png)
 ### After Simulation:
+
 ![](pmex09.1.png)
 
 
